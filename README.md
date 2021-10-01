@@ -1,6 +1,6 @@
 ## Hey! 👩‍💻
 
-- I'm DevSecOps and Security Application Engineer 
+- I'm DevSecOps and Application Security Engineer 
 
 
  <div>
