@@ -1,6 +1,6 @@
 ## Hello world! 👩‍💻
 
-- I'm DevSecOps and Application Security Engineer 
+- I'm AI Security, DevSecOps and Application Security Engineer 
 - I love to help people to enter in this technology world :) I also love to talk about DevOps,security and web development
 - My favorite languages are 💜 : 
 <div style="display: inline_block">
